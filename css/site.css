@@ -3,6 +3,12 @@ main>.container {
     margin-bottom: 5rem;
 }
 
+main>.container-fluid {
+    padding: 60px 15px 0;
+    margin-bottom: 5rem;
+
+}
+
 body> main {
     margin-bottom: 60px;
     margin-top: 20px;
@@ -27,3 +33,4 @@ body> main {
 .minHeight {
     min-height: 75vh;
 }
+
